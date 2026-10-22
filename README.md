@@ -10,24 +10,11 @@
 
 ![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-4F46E5?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![University](https://img.shields.io/badge/Axis%20Institute-of%20Technology%20%26%20Management-7C3AED?style=for-the-badge&logo=academia&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-2028-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Kanpur%2C%20India-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
-
-[![Email](https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyansh.savita78@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyansh-savita)
-
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=divyansh-savita&label=Profile%20Views&color=7C3AED&style=flat-square)
-![Followers](https://img.shields.io/github/followers/divyansh-savita?label=Followers&style=flat-square&color=4F46E5&labelColor=0D1117)
-![Stars](https://img.shields.io/github/stars/divyansh-savita?label=Stars&style=flat-square&color=8B5CF6&labelColor=0D1117)
-
 </div>
-
----
-
 ## About Me
 
 <div align="center">
@@ -120,7 +107,7 @@ A multi-user AI memory agent that stores context in a vector database, enabling 
 | **Performance** | LangGraph tool-calling workflows with deterministic fallback logic for reliable execution |
 | **Security** | user_id-scoped memory namespacing to prevent data leakage between concurrent users |
 | **Impact** | Coherent cross-session conversations and faster debugging through full agent traceability |
-| **Repository** | [View on GitHub](https://github.com/divyansh-savita) |
+| **Repository** | [View on GitHub](    ) |
 
 The agent is built as a LangGraph state machine that routes between tool calls and fallback paths. Each user's memory lives in an isolated namespace, and a LangSmith tracing pipeline provides end-to-end observability, which shortens prompt iteration and debugging cycles.
 
@@ -140,7 +127,7 @@ A high-performance real-time messaging platform written in Go, using WebSocket f
 | **Performance** | Sub-50 ms message delivery under concurrent load |
 | **Security** | Channel-based shared-state management eliminating race conditions |
 | **Impact** | Resilient messaging with graceful teardown and automatic reconnection |
-| **Repository** | [View on GitHub](https://github.com/divyansh-savita) |
+| **Repository** | [View on GitHub]() |
 
 Each client runs in its own goroutine, while shared state is coordinated through channels. Graceful connection teardown prevents orphaned sockets, and auto-reconnection logic keeps sessions stable on unreliable networks. The front end is optimised for both desktop and mobile viewports.
 
@@ -160,8 +147,7 @@ A production-quality video calling interface featuring participant grid panels, 
 | **Performance** | Smooth 60 fps animations with minimised DOM reflows |
 | **Security** | Not applicable (front-end interface project) |
 | **Impact** | Consistent, polished experience across target devices |
-| **Repository** | [View on GitHub](https://github.com/divyansh-savita) |
-
+| **Repository** | [View on GitHub](
 Layouts are built with CSS Grid and Flexbox so they reflow naturally without JavaScript breakpoint hacks. CSS custom properties provide consistent theming across the entire interface.
 
 </details>
@@ -222,85 +208,21 @@ Designing, building, and shipping end-to-end projects across real-time systems, 
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=divyansh-savita&show_icons=true&hide_border=false&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&border_color=312E81&count_private=true&include_all_commits=true&rank_icon=github" height="190" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh-savita&layout=compact&hide_border=false&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_color=312E81&langs_count=8" height="190" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=divyansh-savita&theme=dark&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakNum=C9D1D9&currStreakLabel=A78BFA&sideNums=C9D1D9&sideLabels=818CF8&dates=8B949E&stroke=312E81&border=312E81" alt="GitHub Streak" />
 
-</div>
 
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=divyansh-savita&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies" />
-
-</div>
 
 ---
 
-## Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyansh-savita&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=6366F1&hide_border=true&radius=10" width="100%" alt="Contribution Activity Graph" />
-
-</div>
 
 ---
 
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/divyansh-savita/divyansh-savita/output/github-snake-dark.svg" width="100%" alt="Contribution Snake" />
-
-</div>
 
 ---
 
-## Current Focus
-
-```yaml
-Learning:
-  - Distributed Systems & System Design
-  - Advanced LLM Engineering & Agentic Workflows
-  - Advanced Web Development with Next.js
-
-Building:
-  - Multi-user AI agents with persistent memory
-  - Real-time, concurrent systems in Go
-  - Polished, responsive full stack interfaces
-
-Exploring:
-  - Vector databases and retrieval optimization
-  - LLM observability and evaluation with LangSmith
-  - Performance engineering for concurrent workloads
-
-Open To:
-  - Software Engineering internships
-  - AI / LLM engineering opportunities
-  - Open source and project collaboration
-```
-
----
-
-## Connect
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-divyansh.savita78%40gmail.com-4F46E5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyansh.savita78@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-divyansh--savita-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyansh-savita)
-
-</div>
 
 ---
 
