@@ -23,7 +23,6 @@
 </div>
 
 <br/>
-##About me
 I am a **Computer Science & Engineering undergraduate (2024 – 2028)** focused on building production-quality software across real-time systems, AI / LLM engineering, and full stack web development. I learn emerging frameworks quickly and ship them as working, well-structured projects.
 
 - **Software Engineering:** Concurrent systems in Go, goroutine and channel-based architectures, clean and maintainable code, and strong problem-solving fundamentals.
